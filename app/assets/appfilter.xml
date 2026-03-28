@@ -19589,4 +19589,34 @@
   <item component="ComponentInfo{com.pjsekai.kr.qooapp/com.pjsekai.kr.SDKActivity}" drawable="hatsune_miku_colorful_stage" name="프로젝트 세카이 컬러풀 스테이지! feat.하츠네 미쿠 ~~ HATSUNE MIKU: COLORFUL STAGE!" />
   <item component="ComponentInfo{com.nttdocomo.android.dmenu2/com.nttdocomo.android.docomo_market.ui.StartupActivity}" drawable="d_menu" name="ｄメニュー ~~ d menu" />
   <item component="ComponentInfo{space.takashima.keypo/org.mozc.android.inputmethod.japanese.LauncherActivity}" drawable="generic_keyboard" name="ﾀｸﾄ ｷｰﾎﾞｰﾄﾞ ~~ Takt keyboard" />
+  <item component="ComponentInfo{com.meizu.media.camera/com.meizu.media.camera.CameraLauncher}" drawable="commeizumediacamera" name="相机 ~~ commeizumediacamera" />
+  <item component="ComponentInfo{com.meizu.voiceassistant/com.meizu.voiceassistant.HomePageActivity}" drawable="commeizuvoiceassistant" name="Aicy 助手 ~~ Aicy" />
+  <item component="ComponentInfo{com.meizu.notepaper/com.meizu.flyme.notepaper.app.NotePaperActivity}" drawable="commeizunotepaper" name="笔记 ~~ note" />
+  <item component="ComponentInfo{com.flyme.sceneengine/com.flyme.sceneengine.assistant.ui.activity.AssistantActivity}" drawable="comflymesceneengine" name="场景助手 ~~ sce" />
+  <item component="ComponentInfo{com.shizhuang.duapp/com.shizhuang.duapp.modules.home.ui.HomeActivity}" drawable="comshizhuangduapp" name="得物 ~~ du" />
+  <item component="ComponentInfo{com.larus.nova/com.larus.home.impl.alias.AliasActivity1}" drawable="comlarusnova" name="豆包 ~~ doubao" />
+  <item component="ComponentInfo{com.meizu.mznfcpay/com.meizu.mznfcpay.homepage.HomeActivity}" drawable="commeizumznfcpay" name="Flyme Pay" />
+  <item component="ComponentInfo{com.meizu.flyme.toolbox/com.meizu.flyme.toolbox.activity.ToolBoxActivity}" drawable="commeizuflymetoolbox" name="工具箱 ~~ gongjuxiang" />
+  <item component="ComponentInfo{gulu.gulugulu/com.aaron.sidegesture.MainActivity}" drawable="gulugulugulu" name="gulugulu ~~ gulugulu" />
+  <item component="ComponentInfo{com.phoenix.read/com.dragon.read.pages.main.MainFragmentActivity}" drawable="comphoenixread" name="红果免费短剧 ~~ hgmfdj" />
+  <item component="ComponentInfo{org.frknkrc44.hma_oss/org.frknkrc44.hma_oss.MainActivityLauncher}" drawable="orgfrknkrc44hma_oss" name="HMA-OSS ~~ hma" />
+  <item component="ComponentInfo{com.meizu.net.pedometer/com.meizu.net.pedometer.ui.PedometerMainActivitys}" drawable="commeizunetpedometer" name="计步器 ~~ jibuqi" />
+  <item component="ComponentInfo{nutstore.android/nutstore.android.NutstoreHome}" drawable="nutstoreandroid" name="坚果云 ~~ jianguo" />
+  <item component="ComponentInfo{com.tencent.jkchess/com.tencent.jkchess.ApolloZGame}" drawable="comtencentjkchess" name="金铲铲之战 ~~ jcczz" />
+  <item component="ComponentInfo{com.tftplay.jcc/io.dcloud.PandoraEntryActivity}" drawable="comtftplayjcc" name="金铲铲助手 ~~ jcczs" />
+  <item component="ComponentInfo{com.android.soundrecorder/com.android.soundrecorder.feature.main.MzRecorderActivity}" drawable="comandroidsoundrecorder" name="录音机 ~~ lyj" />
+  <item component="ComponentInfo{com.tencent.nrc/com.epicgames.ue4.GameActivity}" drawable="comtencentnrc" name="洛克王国 ~~ lkwg" />
+  <item component="ComponentInfo{com.qidian.QDReader/com.qidian.QDReader.ui.activity.MainGroupActivity}" drawable="comqidianqdreader" name="起点读书 ~~ qidian" />
+  <item component="ComponentInfo{com.quxianzhuan.wap/com.lt.app.MainActivity}" drawable="comquxianzhuanwap" name="趣闲赚 ~~ qxz" />
+  <item component="ComponentInfo{com.flyme.scanner/com.flyme.scanner.CaptureActivity}" drawable="comflymescanner" name="扫一扫 ~~ sys" />
+  <item component="ComponentInfo{com.android.alarmclock/com.meizu.flyme.alarmclock.DeskClock}" drawable="comandroidalarmclock" name="时钟 ~~ sz" />
+  <item component="ComponentInfo{com.meizu.media.video/com.meizu.media.video.online.ui.module.PersonalCenterContentActivity}" drawable="commeizumediavideo" name="视频 ~~ sp" />
+  <item component="ComponentInfo{com.jiangsu.shuaquanwang/com.jiangsu.shuaquanwang.imgedite.MainImageActivity}" drawable="comjiangsushuaquanwang" name="刷圈兔 ~~ sqt" />
+  <item component="ComponentInfo{com.qq.ac.android/com.qq.ac.android.main.MainActivity}" drawable="comqqacandroid" name="腾讯动漫 ~~ txdm" />
+  <item component="ComponentInfo{com.wandoujia.phoenix2/com.pp.assistant.activity.PPMainActivity}" drawable="comwandoujiaphoenix2" name="豌豆荚 ~~ wdj" />
+  <item component="ComponentInfo{com.meizu.filemanager/com.meizu.flyme.filemanager.activity.HomeActivity}" drawable="commeizufilemanager" name="文件管理 ~~ wjgl" />
+  <item component="ComponentInfo{com.ximalaya.ting.android/com.ximalaya.ting.android.host.activity.MainActivity}" drawable="comximalayatingandroid" name="喜马拉雅 ~~ xmly" />
+  <item component="ComponentInfo{com.cib.cibmb/com.newland.app.litehome.view.activity.LiteHomeActivity}" drawable="comcibcibmb" name="兴业银行 ~~ xyyh" />
+  <item component="ComponentInfo{com.tencent.apps.valorant/com.tencent.zone.main.LauncherActivity}" drawable="comtencentappsvalorant" name="掌上无畏契约 ~~ zswwqy" />
+  <item component="ComponentInfo{com.meizu.customizecenter/com.meizu.customizecenter.frame.activity.CustomizeCenterActivity}" drawable="commeizucustomizecenter" name="主题美化 ~~ ztmh" />
 </resources>
